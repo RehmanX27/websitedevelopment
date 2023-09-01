@@ -1,0 +1,40 @@
+<HTML>
+<!-- wp:paragraph -->
+<p> </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">THE RISE</h2>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":107,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://bloggingram.files.wordpress.com/2023/08/pexels-photo-17840843.jpeg?w=1024" alt="" class="wp-image-107" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>India is one of the fastest-growing gaming markets in the world, with a huge potential for both developers and players. According to a report by Mordor Intelligence, the India gaming market size is expected to grow from USD 3,020.24 million in 2023 to USD 6,256.52 million by 2028, at a CAGR of 15.68% during the forecast period (2023-2028) . This growth is driven by several factors, such as:<br>- The increasing penetration of smartphones and internet access, which enable more people to access online games. India has the second-largest smartphone user base in the world, with over 850 million users as of 2021 . The number of internet users in India is also projected to surpass one billion in 2023 , making it a huge market for online gaming.<br>- The rising popularity of local and regional games, which cater to the diverse preferences and cultures of Indian gamers. India has a rich and diverse gaming culture, with games like Ludo, Chess, Carrom, Snakes and Ladders, and Rummy being popular among different age groups and regions. Many online gaming platforms have incorporated these games into their offerings, along with other genres like casual, fantasy, sports, action, adventure, and strategy. Some of the popular online gaming platforms in India are Dream11, Paytm First Games, MPL, Ludo King, WinZO, and Nazara Technologies .<br>- The emergence of Web3 technologies, which enable new forms of gaming experiences based on decentralization, virtual reality, augmented reality, and the metaverse. Web3 is a new version of the internet that integrates ideas like blockchain, smart contracts, NFTs, DAOs, and DApps. These technologies allow gamers to own their digital assets, create their own games and communities, and participate in immersive and interactive environments. According to a survey by NDTV Profit, at least 30% of the 450 Web3 businesses in India are engaged in the gaming industry . Some of the examples of Web3 games in India are CryptoKitties, Decentraland, Axie Infinity, and Sandbox.<br>- The support from the government and the industry stakeholders, which aim to promote the development and innovation of the gaming sector in India. In November 2020, Prime Minister Narendra Modi inspired developers and innovators to take the lead in the online gaming industry by promoting his vision for a "Digital India" . Since then, the Central Government has taken continuous measures to influence the trajectory of online gaming to conform to this objective. For instance, it has established an Inter-Ministerial Task Force (IMTF) to offer recommendations for universal, national-level legislation to regulate online gaming . It has also formed a group of ministers (GoM) to present the suggested tax structure and the regulatory framework for the online gaming sector .</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><br>According to a report by EY , India's online gaming industry has the potential to generate $2 billion by 2023.<br>The global market size for online games is expected to grow from US$37.65 billion in 2019 to US$122.05 billion in 2025.<br>Domestically, the online gaming industry in India was worth US$543 million in 2016 and has grown to US$1.027 billion in 2020 at a CAGR of 18.6%.<br>Moreover, the industry is estimated to reach US$2 billion by 2023 (in terms of rake fee earned).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">28% GST - IMPACT</h2>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":108,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://bloggingram.files.wordpress.com/2023/08/pexels-photo-6863245.jpeg?w=683" alt="" class="wp-image-108" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>The online gaming industry in India is facing a major challenge as the GST Council has decided to impose a 28% tax on online gaming, casinos and horse racing. The tax will be levied on the full face value of bets, regardless of whether the games are based on skill or chance. This decision has sparked an outcry from the online gaming companies, investors and players, who fear that it will hamper the growth and innovation of the sector.<br>However, the GST Council's decision to levy a 28% tax on online gaming will have a severe impact on the industry's viability and potential. The industry players have argued that the tax rate is too high and unfair, as it will result in a tax burden of over 50-60% on every rupee earned by the platforms. They have also pointed out that the tax will be applicable on the gross amount of bets, rather than the net revenue or profit of the platforms, which is against the principle of GST. Moreover, they have claimed that the tax will create entry barriers for startups and MSMEs, discourage innovation and quality, reduce consumer choice and satisfaction, and benefit illegal and offshore operators who evade taxes.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><br>The industry players have also challenged the GST Council's decision to do away with the distinction between games of skill and games of chance. They have asserted that games of skill are different from games of chance, as they require mental ability, knowledge and judgment from the players, and are not dependent on luck or randomness. They have cited various legal precedents and judgments from various courts in India that have recognized games like rummy, poker and fantasy sports as games of skill and exempted them from gambling laws. They have also highlighted that games of skill are socially beneficial, as they promote skill development, mental agility, sports awareness and fan engagement.<br>The industry players have urged the government to reconsider its decision and adopt a rational and reasonable tax regime for online gaming that is based on net revenue or profit, rather than gross amount of bets. They have also requested the government to recognize games of skill as a separate category from games of chance and apply a lower tax rate for them. They have appealed to the government to support the online gaming industry as a legitimate and promising sector that can contribute to India's digital economy, employment generation, sports development and tax revenue.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
